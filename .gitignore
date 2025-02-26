@@ -1,9 +1,7 @@
 # Unity-specific ignores
+# Unity Temp and Build files
 Temp/
 Library/
 Logs/
 Obj/
-Build/
-Builds/
-Packages/
-UserSettings/
+
