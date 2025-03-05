@@ -16,6 +16,9 @@ Doughmination is a VR cooking game where players use mobile sensors for hand mot
 2. Open the project in Unity (recommended version: 2021 or later).
 3. Install required dependencies via Unity Package Manager.
 
+## Further Instructions
+- Make sure all object animation scripts have a reference to the Character
+
 ## Contributing
 Pull requests are welcome! Please create an issue for major changes.
 
